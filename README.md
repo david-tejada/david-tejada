@@ -1,4 +1,4 @@
-## Hey there! 👋 I'm David.
+**Hey there! 👋 I'm David.**
 
 I'm a software developer from Spain. With a degree in Electronic Engineering, I've transitioned my career into web development. I enjoy all the possibilities that it brings and the immediacy of the web platform. What I mostly enjoy about software development is being immersed in a problem, be it a feature implementation or a pesky bug, trying to find that perfect solution. I also thoroughly enjoy refactoring; there is something beautiful about grabbing some messy code and turning it into a coherent and perfectly decoupled, magical work of art (or, you know, a bit less messy).
 
