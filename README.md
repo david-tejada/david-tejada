@@ -17,7 +17,7 @@ Here is what some people have to say about Rango:
 - ⭐⭐⭐⭐⭐ Really love this - Definitely a crucial addition to Talon and to hands-less computer interaction. — Jon Weinrib
 - ⭐⭐⭐⭐⭐ This is the only extension that is faster then the vimium chrome extension to interact with websites using pure voice and talon. — Sandeep Joel
 
-Rango in the extension stores: [Chrome](https://chrome.google.com/webstore/detail/rango/lnemjdnjjofijemhdogofbpcedhgcpmb) - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/rango/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - [Edge](https://microsoftedge.microsoft.com/addons/detail/rango/pcngjebdhphedjkfhipblkgjbjoeaaeb)
+Rango in the extension stores: [Chrome](https://chrome.google.com/webstore/detail/rango/lnemjdnjjofijemhdogofbpcedhgcpmb) - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/rango/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - [Edge](https://microsoftedge.microsoft.com/addons/detail/rango/pcngjebdhphedjkfhipblkgjbjoeaaeb) - [Safari](https://apps.apple.com/es/app/rango-for-safari/id6461166435?l=en-GB&mt=12).
 
 ### Other Open Source Contributions
 
