@@ -2,6 +2,8 @@
 
 I'm a software developer from Spain. With a degree in Electronic Engineering, I've transitioned my career into web development. I enjoy all the possibilities that it brings and the immediacy of the web platform. What I mostly enjoy about software development is being immersed in a problem, be it a feature implementation or a pesky bug, trying to find that perfect solution. I also thoroughly enjoy refactoring; there is something beautiful about grabbing some messy code and turning it into a coherent and perfectly decoupled, magical work of art (or, you know, a bit less messy).
 
+You can visit [my portfolio page](https://davidtejada.dev/).
+
 ### Featured Project: [Rango](https://github.com/david-tejada/rango)
 
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat) ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat) ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat) ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat) ![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat) ![Puppeteer Badge](https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=fff&style=flat)
@@ -40,7 +42,7 @@ I have also made some contributions to Talon Community, the de facto standard us
 I realized early that one can quickly become overwhelmed if they just try to learn everything. So I have taken the approach of learning technologies/skills as I need them.
 
 - **TypeScript**: This is where I spend most of my time. I feel fairly confident writing TypeScript and I'm always trying to improve.
-- **React**: I'm not so experienced here but I have used it to some extent and I want to keep improving on it. The Rango setting page is built entirely using React. I write modern React using function components with hooks instead of class based components.
+- **React**: The Rango setting page is built entirely using React. I write modern React using function components with hooks instead of class based components.
 - **HTML & CSS**: In the process of building Rango I became quite proficient with the DOM and CSSOM. I can say I am a stacking context master 😀. Although I enjoy more working on the backend of the frontend I'm currently working on gaining proficiency in these two technologies to become a more well rounded web developer.
 - **Jest**: Testing allows me to make changes with confidence and Jest has been my choice for writing test for Rango.
 - **Puppeteer**: I have used Puppeteer extensively to write tests for Rango.
@@ -61,4 +63,4 @@ I'm currently trying to level up my frontend development skills. I am working th
 
 ### Get in Contact
 
-I am currently looking for a web developer job. If you are hiring and think I could be a fitting candidate you can get in contact with me at devtejada@gmail.com.
+I am currently looking for a web developer job. If you are hiring and think I could be a fitting candidate you can get in contact with me at <devtejada@gmail.com>.
